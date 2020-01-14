@@ -1,3 +1,3 @@
 # HeartDisease
-Heart Disease Classification
+Heart Disease Classification.
 This is the first neural network by Neural Net Studios.
